@@ -11165,7 +11165,7 @@ body {
 }
 .contact-section .card {
   border: 0;
-  border-bottom: 0.25rem solid #64a19d;
+  border-bottom: 0.75rem solid #467370;
 }
 .contact-section .card h4, .contact-section .card .h4 {
   font-size: 0.8rem;
@@ -11175,8 +11175,8 @@ body {
 }
 .contact-section .card hr {
   opacity: 1;
-  border-color: #64a19d;
-  border-width: 0.25rem;
+  border-color: #467370;
+  border-width: 0.75rem;
   width: 3rem;
 }
 .contact-section .social {
